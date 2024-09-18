@@ -5,6 +5,6 @@ document.getElementById("passwordForm").addEventListener("submit", function(even
 
     //Get the values entered by the user
     let website = document.getElementById("website").value;
-    
-
-}
+    let username = document.getElementById("username").value;
+    let password = document.getElementById("password").value;
+})
